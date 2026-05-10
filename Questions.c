@@ -1,5 +1,6 @@
-# Qus. Give output?
+
 /*
+// Qus. Give output?
 int main()
  {
   for ( ; 0 ; )

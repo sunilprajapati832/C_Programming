@@ -11,5 +11,4 @@ int main()
     goto start;
   }
 }
-
 // output: 123

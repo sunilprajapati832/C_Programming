@@ -1,4 +1,5 @@
-#const keyword errors
+/*
+  #const keyword errors
 #include <stdio.h>
 int main()
 {
@@ -7,3 +8,15 @@ int main()
   printf("p is %d", p);
   return 0;
 }
+*/
+
+#include <stdio.h>
+int main()
+{
+  for(i=6; i<=10; i+=2)
+    {
+      if (i!=2)
+        printf("%d",i);
+    }
+} 
+// output : 6 8 10

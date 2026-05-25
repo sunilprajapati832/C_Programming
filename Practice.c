@@ -10,6 +10,7 @@ int main()
 }
 */
 
+/*
 #include <stdio.h>
 int main()
 {
@@ -20,3 +21,13 @@ int main()
     }
 } 
 // output : 6 8 10
+*/
+
+int main()
+{
+  int i=5, j;
+  j=++i;
+  printf("%d%d",i,j);
+  return 0;
+} 
+// output: 6 6

@@ -6,6 +6,5 @@ int main()
   printf("ch is %d ", ch);
   printf("\n ch1 is %d", ch1);
 }
-
 // ouput: ch is -128
 //        ch1 is 126
